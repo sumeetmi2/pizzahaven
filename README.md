@@ -9,3 +9,10 @@ A sample pizza ordering system
     java -cp pizzahaven-1.0.jar com.pizzahaven.application.WelcomeToPizzaHaven
     
 5. You will be able to see something like below
+----------------------------
+Welcome to pizza haven.
+Please select size, base, sauce , toppings, cheese in the order aforementioned
+You can input your selection in format Small|Normal|Margarita|Paneer,Onion,Jalapeno|Mozzarella,Double and press enter to complete an order.
+Add new order?(y/n)   [Press d after order done]
+
+---------------------------
