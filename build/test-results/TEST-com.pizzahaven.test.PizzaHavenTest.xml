@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.pizzahaven.test.PizzaHavenTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-06-19T13:20:02" hostname="SumeetS1" time="0.01">
+  <properties/>
+  <testcase name="testPrice" classname="com.pizzahaven.test.PizzaHavenTest" time="0.01"/>
+  <system-out><![CDATA[Order 1
+Large|Pan|Margarita|Capsicum,Onion,Jalapeno|Mozzarella 285.0
+Small|Normal|Margarita|Paneer,Onion,Jalapeno|Mozzarella,Double 165.0
+Order Total
+450
+Service Tax(5.0%)
+22
+VAT(6.0%)
+27
+Total
+499
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
